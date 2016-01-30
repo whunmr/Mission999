@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<svg width="2819" height="967" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;" stroke="null">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" x="-1" y="-1" width="2821" height="969" id="canvas_background" fill="#fff"/>
+  <g stroke="null" id="canvasGrid" display="none">
+   <rect stroke="null" id="svg_2" width="1600" height="1200" x="3" y="3" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <text stroke="#000" style="cursor: move; vector-effect: non-scaling-stroke;" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1793.091011" y="289.725586" id="svg_387" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">F9</text>
+  <rect stroke="#000" style="vector-effect: non-scaling-stroke;" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1740.505887" y="304.025878" width="129.999983" height="29.799994" id="svg_388"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="243.043974" y="581.317964" id="svg_157" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">h</text>
+  <rect stroke="#000" fill="#000000" stroke-width="1.5" stroke-opacity="null" x="981.627872" y="632" width="202.999984" height="10" id="svg_260"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="2364.123077" y="179.679605" id="svg_579" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">sh4</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="456.505781" y="331.025876" width="34" height="95.000001" id="svg_581"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="478.091011" y="372.027603" id="svg_582" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/1/1/2/4</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" x="120.505863" y="586.525885" width="20" height="20" id="svg_591"/>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="613.505915" y="330.025878" width="33.999995" height="96" id="svg_1"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="636.091011" y="366.027603" id="svg_14" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/1/1/2/5</text>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="519.505863" y="380.525885" width="20" height="20" id="svg_287"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="545.505863" y="380.525885" width="20" height="20" id="svg_288"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="570.505863" y="380.525885" width="20" height="20" id="svg_289"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" stroke-opacity="null" x="1334.50588" y="534.360535" width="323.999972" height="10.79999" id="svg_395"/>
+  <rect stroke="#000" id="svg_6" height="58.04805" width="268.046927" y="605.724451" x="80.000418" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <rect stroke="#000" fill="#000000" stroke-width="1.5" stroke-opacity="null" x="-192.372089" y="328" width="555.000028" height="10" id="svg_12" transform="rotate(90 85.12792968749996,333.00000000000006) "/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="210.123077" y="584.679605" id="svg_13" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">wb</text>
+  <rect stroke="#000" id="svg_15" height="302.048161" width="236.0469" y="557.360498" x="345.000642" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <rect stroke="#000" id="svg_17" height="67.000075" width="74.00011" y="564.682992" x="681.047444" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <rect stroke="#000" id="svg_18" height="27" width="191.00009" y="309.683027" x="456.505784" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="553.123077" y="360.679605" id="svg_46" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">wb</text>
+  <rect stroke="#000" id="svg_47" height="72.048142" width="411.046884" y="494.360531" x="345.000583" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" x="652.246624" y="600.679455" id="svg_48" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">k</text>
+  <rect stroke="#000" id="svg_50" height="135.048159" width="79.046899" y="597.360535" x="902.000632" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <rect stroke="#000" id="svg_51" height="97.048056" width="282.046917" y="730.724464" x="576.000426" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <rect stroke="#000" id="svg_52" height="58.998918" width="55.99812" y="671.692854" x="846.882346" stroke-width="1.5" fill="#fff"/>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="754.505856" y="535.015392" width="27" height="27" id="svg_55"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="764.091011" y="552.236099" id="svg_56" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/0</text>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="863.091011" y="704.236099" id="svg_57" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/3</text>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1430.123077" y="519.679605" id="svg_60" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">wb</text>
+  <rect stroke="#000" style="vector-effect: non-scaling-stroke;" fill="#000000" stroke-width="1.5" stroke-opacity="null" x="502.62793" y="642" width="164" height="10" id="svg_61" transform="rotate(90 584.6279296875,647.0000000000001) "/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1085.123077" y="609.679605" id="svg_62" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">wb</text>
+  <rect stroke="#000" id="svg_63" height="135.048159" width="42" y="596.360535" x="1185.000619" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <rect stroke="#000" style="vector-effect: non-scaling-stroke;" fill="#000000" stroke-width="1.5" stroke-opacity="null" x="1328.627818" y="632" width="327.999978" height="10" id="svg_64"/>
+  <rect stroke="#000" id="svg_65" height="135.048159" width="412.046963" y="597.360535" x="1656.000669" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <rect stroke="#000" id="svg_66" height="27" width="321.000096" y="425.683027" x="393.505783" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" stroke-opacity="null" x="1452.505935" y="483.025838" width="32.000001" height="149.800008" id="svg_67"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1541.123077" y="517.679605" id="svg_68" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">wb</text>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="662.123077" y="106.679605" id="svg_69" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">H</text>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="524.091011" y="471.236099" id="svg_75" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">m</text>
+  <rect stroke="#000" id="svg_77" height="58.019239" width="215.030216" y="703.724475" x="975.047494" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="997.123077" y="688.679605" id="svg_78" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">d2</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1330.505856" y="704.015392" width="27" height="27" id="svg_80"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1340.091011" y="721.236099" id="svg_81" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/0</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1357.505856" y="704.015392" width="27" height="27" id="svg_82"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1367.091011" y="721.236099" id="svg_83" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/1</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1384.505856" y="704.015392" width="27" height="27" id="svg_84"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1395.091011" y="721.236099" id="svg_85" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/2</text>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1395.091011" y="721.236099" id="svg_86" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/2</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1411.505856" y="704.015392" width="27" height="27" id="svg_101"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1422.091011" y="721.236099" id="svg_112" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/3</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1438.505856" y="704.015392" width="27" height="27" id="svg_113"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1449.091011" y="721.236099" id="svg_114" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/4</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1465.505856" y="704.015392" width="27" height="27" id="svg_115"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1476.091011" y="721.236099" id="svg_116" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/5</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1492.505856" y="704.015392" width="27" height="27" id="svg_117"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1503.091011" y="721.236099" id="svg_118" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/6</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1519.505856" y="704.015392" width="27" height="27" id="svg_123"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1530.091011" y="721.236099" id="svg_129" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/7</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1546.505856" y="704.015392" width="27" height="27" id="svg_130"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1557.091011" y="721.236099" id="svg_131" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/8</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1573.505856" y="704.015392" width="27" height="27" id="svg_137"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1584.091011" y="721.236099" id="svg_141" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/9</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1601.505856" y="704.015392" width="27" height="27" id="svg_142"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1611.091011" y="721.236099" id="svg_146" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/0</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1628.505856" y="704.015392" width="27" height="27" id="svg_147"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1638.091011" y="721.236099" id="svg_148" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/1</text>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="257.123077" y="584.679605" id="svg_169" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">wb</text>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="235.123077" y="548.679605" id="svg_170" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">wb</text>
+  <rect stroke="#000" style="vector-effect: non-scaling-stroke;" id="svg_171" height="135.048159" width="42.046887" y="596.360535" x="1288.000622" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1258.123077" y="778.679605" id="svg_7" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">s/0/300/2/5</text>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="640.505863" y="189.525885" width="20" height="20" id="svg_8"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="664.505863" y="189.525885" width="20" height="20" id="svg_9"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="640.505863" y="165.525885" width="20" height="20" id="svg_10"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="664.505863" y="165.525885" width="20" height="20" id="svg_11"/>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="545.505856" y="234.015392" width="27" height="27" id="svg_19"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="564.091011" y="232.392105" id="svg_20" font-size="14" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:mb1/0/-15/1/0/4/3</text>
+  <rect stroke="#000" fill="#000000" stroke-width="1.5" stroke-opacity="null" x="546.505856" y="223.515392" width="25" height="10" id="svg_21"/>
+  <rect stroke="#000" transform="rotate(90 577.0058593750001,247.51538085937506) " fill="#000000" stroke-width="1.5" stroke-opacity="null" x="565.505856" y="242.515392" width="23" height="10" id="svg_22"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="580.091011" y="249.391861" id="svg_23" font-size="11" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:mb1/-15/0/1/0/1/2</text>
+  <rect stroke="#000" transform="rotate(-90 541.0058593750001,247.51538085937497) " fill="#000000" stroke-width="1.5" stroke-opacity="null" x="529.505856" y="242.515392" width="23" height="10" id="svg_24"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="544.091011" y="250.391861" id="svg_25" font-size="11" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:mb1/15/0/1/0/1/2</text>
+  <rect stroke="#000" style="vector-effect: non-scaling-stroke;" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1707.627936" y="486.025886" width="52.000002" height="25.551999" id="svg_26"/>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1781.505856" y="458.015392" width="27" height="27" id="svg_27"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1791.091011" y="475.236099" id="svg_45" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/0</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1808.505856" y="441.015392" width="27" height="27" id="svg_70"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1818.091011" y="458.236099" id="svg_71" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/1</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1835.505856" y="424.015392" width="27" height="27" id="svg_72"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1846.091011" y="441.236099" id="svg_74" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/2</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1862.505856" y="408.015392" width="27" height="27" id="svg_79"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1873.091011" y="425.236099" id="svg_149" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/3</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1889.505856" y="391.015392" width="27" height="27" id="svg_150"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1900.091011" y="408.236099" id="svg_151" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/4</text>
+  <rect stroke="#000" style="vector-effect: non-scaling-stroke;" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1916.505856" y="375.015392" width="27" height="27" id="svg_152"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1927.091011" y="392.236099" id="svg_153" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/5</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1943.505856" y="375.015392" width="27" height="27" id="svg_154"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1954.091011" y="392.236099" id="svg_155" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/6</text>
+  <text stroke="#000" fill="#000000" stroke-width="0" x="1937.246624" y="298.679455" id="svg_159" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">k</text>
+  <rect stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="1970.505856" y="375.015392" width="27" height="27" id="svg_161"/>
+  <rect stroke="#000" transform="rotate(-90 1977.127685546875,245.9999999999998) " fill="#000000" stroke-width="1.5" stroke-opacity="null" x="1848.127591" y="241" width="257.999982" height="10" id="svg_162"/>
+  <text stroke="#000" style="vector-effect: non-scaling-stroke;" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="2366.123077" y="283.679605" id="svg_164" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">wb</text>
+  <rect stroke="#000" style="vector-effect: non-scaling-stroke;" transform="rotate(90 1986.12744140625,246.00000000000014) " fill="#000000" stroke-width="1.5" stroke-opacity="null" x="1857.127591" y="241" width="257.999982" height="10" id="svg_166"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" x="1857.246624" y="86.679455" id="svg_167" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">d48</text>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="2086.505863" y="626.525885" width="20" height="20" id="svg_168"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="2111.505863" y="626.525885" width="20" height="20" id="svg_172"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="2137.505863" y="626.525885" width="20" height="20" id="svg_173"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="2161.505863" y="626.525885" width="20" height="20" id="svg_174"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="2187.505863" y="626.525885" width="20" height="20" id="svg_175"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="2212.505863" y="626.525885" width="20" height="20" id="svg_176"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="2238.505863" y="626.525885" width="20" height="20" id="svg_177"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="2262.505863" y="626.525885" width="20" height="20" id="svg_178"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="2289.505863" y="626.525885" width="20" height="20" id="svg_179"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="2314.505863" y="626.525885" width="20" height="20" id="svg_180"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="2340.505863" y="626.525885" width="20" height="20" id="svg_181"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="2364.505863" y="626.525885" width="20" height="20" id="svg_182"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="2390.505863" y="626.525885" width="20" height="20" id="svg_183"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="2415.505863" y="626.525885" width="20" height="20" id="svg_186"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="2441.505863" y="626.525885" width="20" height="20" id="svg_187"/>
+  <rect stroke="#000" fill="#ffff00" stroke-width="1.5" x="2466.505863" y="626.525885" width="20" height="20" id="svg_188"/>
+  <rect stroke="#000" style="vector-effect: non-scaling-stroke;" id="svg_189" height="143.997429" width="210.662853" y="597.36052" x="2503.219679" stroke-width="1.5" fill="#fff"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="2093.123077" y="600.679605" id="svg_190" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">s/390/0/2/5</text>
+  <rect stroke="#000" style="vector-effect: non-scaling-stroke;" id="svg_286" height="39.551999" width="63.999999" y="558.025888" x="2540.505865" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <text stroke="#000" style="vector-effect: non-scaling-stroke;" xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="14" id="svg_191" y="582.236099" x="2561.091011" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">p:mb1/0/276/8/6</text>
+  <rect stroke="#000" style="vector-effect: non-scaling-stroke;" transform="rotate(-28.695701599121094 2211.5024414062505,396.6636352539065) " id="svg_193" height="18.338788" width="305.722415" y="387.494203" x="2058.641104" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <rect stroke="#000" style="vector-effect: non-scaling-stroke;" id="svg_194" height="33.000028" width="133.000111" y="307.683027" x="2335.170938" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <rect stroke="#000" style="vector-effect: non-scaling-stroke;" fill="none" stroke-width="1.5" x="1655.505863" y="590.525885" width="20" height="20" id="svg_195"/>
+  <rect stroke="#000" style="vector-effect: non-scaling-stroke;" fill="#000000" stroke-width="1.5" stroke-opacity="null" x="2067.627821" y="690" width="434.000026" height="10" id="svg_197"/>
+  <rect stroke="#000" transform="rotate(-90 2706.1274414062505,306.99999999999983) " fill="#000000" stroke-width="1.5" stroke-opacity="null" x="2416.127478" y="302" width="579.999977" height="10" id="svg_198"/>
+  <rect stroke="#000" style="vector-effect: non-scaling-stroke;" transform="rotate(-180 2346.12744140625,122) " fill="#000000" stroke-width="1.5" stroke-opacity="null" x="1992.127486" y="117" width="708.000005" height="10" id="svg_242"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="2046.123077" y="578.679605" id="svg_243" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">s/0/300/2/3</text>
+  <rect stroke="#000" id="svg_244" height="37.048043" width="747.046911" y="825.724443" x="580.000429" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <rect stroke="#000" transform="rotate(-90 1322.127685546875,777.0001220703124) " fill="#000000" stroke-width="1.5" stroke-opacity="null" x="1275.127691" y="772.000122" width="93.999997" height="10" id="svg_245"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" x="1167.246624" y="795.679455" id="svg_246" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">k</text>
+  <rect stroke="#000" id="svg_251" height="58.998918" width="35.998115" y="612.692854" x="866.882331" stroke-width="1.5" fill="#fff"/>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="875.091011" y="645.236099" id="svg_252" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:vb/2/1/1/4</text>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1305.091011" y="824.392105" id="svg_253" font-size="14" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:mb1/0/-15/1/0/4/5</text>
+  <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1224.091011" y="824.392105" id="svg_255" font-size="14" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:mb1/0/-15/1/0/4/3</text>
+  <rect stroke="#000" fill="#000000" stroke-width="1.5" stroke-opacity="null" x="1287.505856" y="815.515392" width="25" height="10" id="svg_254"/>
+  <rect stroke="#000" fill="#000000" stroke-width="1.5" stroke-opacity="null" x="1206.505856" y="815.515392" width="25" height="10" id="svg_256"/>
+  <text style="cursor: move;" stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1025.091011" y="824.392105" id="svg_257" font-size="14" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">p:mb1/0/-15/1/0/4/4</text>
+  <rect stroke="#000" fill="#000000" stroke-width="1.5" stroke-opacity="null" x="1007.505856" y="815.515392" width="25" height="10" id="svg_258"/>
+  <rect stroke="#000" fill="#000000" stroke-width="1.5" stroke-opacity="null" x="857.505856" y="815.515392" width="69" height="10" id="svg_259"/>
+ </g>
+</svg>

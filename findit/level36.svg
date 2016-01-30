@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<svg width="829" height="452" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g stroke="null">
+  <title>background</title>
+  <rect stroke="null" x="-1" y="-1" width="831" height="454" id="canvas_background" fill="#fff"/>
+  <g stroke="null" id="canvasGrid" display="none">
+   <rect stroke="null" id="svg_14" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title>Layer 1</title>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="389.311808" y="339.68316" id="svg_369" font-size="16" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">h</text>
+  <rect id="svg_3" height="15.000002" width="431.99997" y="362.015422" x="179.99321" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_2" height="430.877217" width="20.033138" y="-21.687352" x="387.249395" stroke-width="1.5" fill="#fff" transform="rotate(-90.11093139648438 397.2659606933594,193.7512512207031) " stroke="#000"/>
+  <rect id="svg_22" height="193.999981" width="24.000002" y="183.01544" x="157.993133" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <text style="cursor: move;" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="553.5" y="358.5" id="svg_27" font-size="16" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve" stroke="#000">F37</text>
+  <rect id="svg_51" height="194" width="24" y="183.015437" x="611.993133" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="239" y="261.5" id="svg_1" font-size="16" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">G</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="452" y="235.5" id="svg_6" font-size="16" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">G</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="203" y="350.5" id="svg_7" font-size="7" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">T: Contact this will change gravity direction.</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="239.5" y="310.5" id="svg_8" font-size="16" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">dU</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="295" y="231.5" id="svg_12" font-size="16" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">k</text>
+  <text xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="19" id="svg_5" y="294.5" x="493.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">L</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="358" y="112" id="svg_4" font-size="16" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">d47</text>
+ </g>
+</svg>

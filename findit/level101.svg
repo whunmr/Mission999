@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<svg width="2000" height="1200" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="1202" width="2002" y="-1" x="-1"/>
+  <g display="none" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="2" x="2" height="3200" width="1600" id="svg_2"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_3" y="718.239105" x="212.504696" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">h</text>
+  <rect id="svg_70" height="61.8" width="100" y="740.739171" x="11.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1437.004696" y="638.515392" id="svg_1" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">F2</text>
+  <rect id="svg_5" height="61.8" width="100" y="740.739171" x="111.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_6" height="61.8" width="100" y="740.739171" x="211.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_7" height="61.8" width="100" y="740.739171" x="310.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_8" height="61.8" width="100" y="740.739171" x="410.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_9" height="61.8" width="100" y="740.739171" x="509.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_10" height="61.8" width="100" y="740.739171" x="609.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_11" height="61.8" width="100" y="740.739171" x="708.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="512.762508" y="651.515392" id="svg_13" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">dD/0.2</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="512.762508" y="686.515392" id="svg_14" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">k</text>
+  <rect id="svg_15" height="61.8" width="100" y="740.739171" x="509.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_16" height="61.8" width="100" y="740.739171" x="609.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_17" height="61.8" width="100" y="740.739171" x="708.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_18" height="61.8" width="100" y="740.739171" x="808.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_21" height="61.8" width="100" y="740.739171" x="1503.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_23" height="61.8" width="130.999997" y="740.739171" x="1373.166713" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_24" height="61.8" width="100" y="740.739171" x="1503.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_25" height="61.8" width="100" y="679.739171" x="11.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_26" height="61.8" width="100" y="618.739171" x="11.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_27" height="61.8" width="100" y="557.739171" x="11.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_29" height="61.8" width="100" y="678.739171" x="1603.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_30" height="61.8" width="100" y="617.739171" x="1603.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_31" height="61.8" width="100" y="556.739171" x="1603.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="441.004696" y="624.024484" id="svg_33" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve" transform="matrix(1,0,0,0.8004158139228821,0,125.63824513554573) " stroke="#000">T:Jump to collect this key.</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="132.004696" y="657.515392" id="svg_35" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">T: Press 3 buttons on bottom of the screen</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="135.004696" y="673.515392" id="svg_47" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">T: to move left, right and jump.</text>
+  <rect id="svg_48" height="25.080009" width="60.000007" y="715.717203" x="543.166689" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1397.004696" y="553.515392" id="svg_49" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">T: DOOR TO NEXT LEVEL</text>
+  <rect id="svg_50" height="61.8" width="100" y="739.739171" x="1603.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_51" height="61.8" width="100" y="739.739171" x="1603.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="765.762508" y="638.515392" id="svg_57" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">dL/0.2</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="730.762508" y="638.515392" id="svg_58" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">k</text>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="775.004696" y="629.021886" id="svg_60" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve" stroke="#000">T:Jump, wait a moment, and jump again</text>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="771.004696" y="645.263444" id="svg_61" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve" stroke="#000">T:in the air to reach higher place.</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="659.762508" y="500.515392" id="svg_4" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">d39</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1451.012508" y="583.515392" id="svg_12" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">dD/0.2</text>
+  <rect id="svg_28" height="61.8" width="100" y="740.739171" x="1108.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_32" height="61.8" width="100" y="740.739171" x="908.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect stroke="#000" id="svg_34" height="61.8" width="170.999996" y="740.739171" x="1108.16661" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <rect id="svg_36" height="61.8" width="100" y="740.739171" x="908.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect id="svg_39" height="70.080064" width="60.000007" y="671.717245" x="1152.166689" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <rect stroke="#000" id="svg_41" height="93.080066" width="116.000012" y="647.717246" x="1373.166693" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1115.762508" y="679.515392" id="svg_42" font-size="14" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">DJumpUp2/0.8</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1300.762508" y="661.515392" id="svg_43" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">DJumpFar/0.9</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="730.762508" y="693.515392" id="svg_44" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">DJumpJump/0.5</text>
+  <rect id="svg_45" height="61.8" width="100" y="740.739171" x="1008.166686" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" stroke="#000"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="512.762508" y="703.515392" id="svg_46" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">DJump/0.5</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1529.762508" y="720.515392" id="svg_53" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">d18</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="980.762508" y="638.515392" id="svg_19" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">k</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1010.762508" y="638.515392" id="svg_20" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">k</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1040.762508" y="638.515392" id="svg_22" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">k</text>
+  <rect stroke="#000" id="svg_37" height="61.8" width="170.999996" y="765.739171" x="1202.16661" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="328.762508" y="726.515392" id="svg_38" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">k</text>
+ </g>
+</svg>
