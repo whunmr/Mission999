@@ -29,6 +29,7 @@
 //TODO: springs to push hero to very high place, the springs can be moved by hero.
 
 #import "GameScene.h"
+#import "SelectLevelScene.h"
 #import "HMHero.h"
 #import "common.h"
 #import "Monster.h"
@@ -117,6 +118,7 @@ static GameScene *sharedInstance = nil;
 
 - (id)initWithSize:(CGSize)size {
     self = [super initWithSize:size];
+    self.scaleMode = SKSceneScaleModeAspectFill;
     sharedInstance = self;
     return self;
 }
@@ -795,9 +797,10 @@ static NSTimer* keep_alive_timer;
             case e_reload:
                 //[self reload_remote_level_file];
                 [dead_heros_dict removeAllObjects];
-                [self restart_level:@"level10000"];
-            default:
-                break;
+                //[self restart_level:@"level10000"];
+                [musicPlayer pause];
+                SKTransition *reveal = [SKTransition doorsOpenVerticalWithDuration:1.0];
+                [self.view presentScene:[SelectLevelScene sharedInstance] transition:reveal];
         }
     }
 }

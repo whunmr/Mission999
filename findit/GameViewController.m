@@ -7,7 +7,7 @@
 //
 
 #import "GameViewController.h"
-#import "GameScene.h"
+#import "SelectLevelScene.h"
 
 @implementation GameViewController
 
@@ -24,10 +24,10 @@
     skView.ignoresSiblingOrder = YES;
     skView.multipleTouchEnabled = YES;
     
-    GameScene* scene = [[GameScene alloc] initWithSize:skView.frame.size];
+    SelectLevelScene* scene = [[SelectLevelScene alloc] initWithSize:skView.frame.size];
     scene.scaleMode = SKSceneScaleModeAspectFill;
-    //scene.backgroundColor = [SKColor blackColor];
-    [skView presentScene:scene];
+    SKTransition *reveal = [SKTransition doorsOpenVerticalWithDuration:1.0];
+    [skView presentScene:scene transition:reveal];
 }
 
 - (BOOL)shouldAutorotate {
