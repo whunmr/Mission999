@@ -104,8 +104,11 @@
 static SKAction* actionEnterNextLevelSound;
 static SKEmitterNode* backgoundStars;
 
+static SKAction* play_back_to_select_level_sound_action;
+
 + (void)initialize {
     actionEnterNextLevelSound = [SKAction playSoundFileNamed:@"victory2.mp3" waitForCompletion:NO];
+    play_back_to_select_level_sound_action = [SKAction playSoundFileNamed:@"back_to_select_level.mp3" waitForCompletion:NO];
 //    backgoundStars = [SKEmitterNode nodeWithFileNamed:@"background_stars.sks"];
 //    backgoundStars.name = @"background";
 //    backgoundStars.zPosition = -999;
@@ -143,7 +146,6 @@ static const CGFloat control_scale = 0.5;
 -(void)addControlPad {
     left = [SKSpriteNode spriteNodeWithImageNamed:@"left.png"];
     left.blendMode = SKBlendModeAlpha;
-    left.alpha = 0.2f;
     left.name = @"left";
     left.xScale = left.yScale = control_scale * 0.9;
     left.position = CGPointMake(0, 0); /*CGPointMake(-self.view.frame.size.width/2 + left.size.width/2 - 10
@@ -161,7 +163,6 @@ static const CGFloat control_scale = 0.5;
     right = [SKSpriteNode spriteNodeWithImageNamed:@"right.png"];
     right.name = @"right";
     right.blendMode = SKBlendModeAlpha;
-    right.alpha = 0.2f;
     right.xScale = right.yScale = control_scale * 0.9;
     right.position = CGPointMake(0, 0);/*CGPointMake(left.position.x + right.size.width/2 + 40, left.position.y);*/
     right.zPosition = 2001;
@@ -169,13 +170,12 @@ static const CGFloat control_scale = 0.5;
     SKSpriteNode* rightWrapper = [[SKSpriteNode alloc] initWithColor:[SKColor clearColor] size:CGSizeMake(105, 320)];
     rightWrapper.name = @"right";
     rightWrapper.zPosition = 2000;
-    rightWrapper.position = CGPointMake(leftWrapper.position.x + right.size.width/2 + 40, leftWrapper.position.y);
+    rightWrapper.position = CGPointMake(leftWrapper.position.x + right.size.width/2 + 40, leftWrapper.position.y - 5);
     [rightWrapper addChild:right];
     [control_layer addChild:rightWrapper];
     
     jump_button = [SKSpriteNode spriteNodeWithImageNamed:@"jump.png"];
     jump_button.blendMode = SKBlendModeAlpha;
-    jump_button.alpha = 0.2f;
     jump_button.xScale = jump_button.yScale = control_scale;
     jump_button.position = CGPointMake(0, 0);
     /*CGPointMake(self.view.frame.size.width/2 - jump_button.size.width/2 + 10
@@ -185,7 +185,7 @@ static const CGFloat control_scale = 0.5;
 
     SKSpriteNode* jumpWrapper = [[SKSpriteNode alloc] initWithColor:[SKColor clearColor] size:CGSizeMake(150, 320)];
     jumpWrapper.position = CGPointMake(self.view.frame.size.width/2 - jump_button.size.width/2 + 10
-                                       , -self.view.frame.size.height/2 + jump_button.size.height/2 - 10);
+                                       , -self.view.frame.size.height/2 + jump_button.size.height/2 - 10 - 15);
     jumpWrapper.zPosition = 2000;
     jumpWrapper.name = @"jump";
     [jumpWrapper addChild:jump_button];
@@ -236,7 +236,7 @@ static const CGFloat control_scale = 0.5;
     health_icon.colorBlendFactor = 0.9;
     [control_layer addChild:health_icon];
     
-    health_value_label = [SKLabelNode labelNodeWithFontNamed:@"ChalkboardSE-Bold"];
+    health_value_label = [SKLabelNode labelNodeWithFontNamed:@"ChalkboardSE"];
     health_value_label.fontSize = 14;
     health_value_label.text = @"";
 //    health_value_label.alpha = 0.7;
@@ -255,7 +255,7 @@ static const CGFloat control_scale = 0.5;
     bullet_icon.zPosition = 2000;
     [control_layer addChild:bullet_icon];
     
-    bullet_icon_label = [SKLabelNode labelNodeWithFontNamed:@"ChalkboardSE-Bold"];
+    bullet_icon_label = [SKLabelNode labelNodeWithFontNamed:@"ChalkboardSE"];
     bullet_icon_label.fontSize = 14;
     bullet_icon_label.text = @" 0/0";
 //    bullet_icon_label.alpha = 0.7;
@@ -521,24 +521,24 @@ static const CGFloat control_scale = 0.5;
         return [self restart_level:@"level10000"];
     }
     
-    NSArray* ps = [level_file_name componentsSeparatedByString:@"/"];
-    CGFloat levelNum = [[[ps lastObject] substringFromIndex:[@"level" length]] floatValue];
-    if (levelNum < 4 || levelNum > 9999) {
-        [left runAction:[SKAction colorizeWithColor:[SKColor orangeColor] colorBlendFactor:1 duration:0]];
-        [right runAction:[SKAction colorizeWithColor:[SKColor orangeColor] colorBlendFactor:1 duration:0]];
-        [jump_button runAction:[SKAction colorizeWithColor:[SKColor orangeColor] colorBlendFactor:1 duration:0]];
-        left.alpha =  right.alpha = jump_button.alpha = 0.6;
-        buttonPressedAlpha = 1;
-        buttonUnpressedAlpha = 0.6;
-    } else {
-        [left runAction:[SKAction colorizeWithColor:[SKColor whiteColor] colorBlendFactor:1 duration:0]];
-        [right runAction:[SKAction colorizeWithColor:[SKColor whiteColor] colorBlendFactor:1 duration:0]];
-        [jump_button runAction:[SKAction colorizeWithColor:[SKColor whiteColor] colorBlendFactor:1 duration:0]];
-        left.alpha =  right.alpha = jump_button.alpha = 0.1;
-
-        buttonPressedAlpha = 0.25;
-        buttonUnpressedAlpha = 0.1;
-    }
+//    NSArray* ps = [level_file_name componentsSeparatedByString:@"/"];
+//    CGFloat levelNum = [[[ps lastObject] substringFromIndex:[@"level" length]] floatValue];
+//    if (levelNum < 4 || levelNum > 9999) {
+//        [left runAction:[SKAction colorizeWithColor:[SKColor orangeColor] colorBlendFactor:1 duration:0]];
+//        [right runAction:[SKAction colorizeWithColor:[SKColor orangeColor] colorBlendFactor:1 duration:0]];
+//        [jump_button runAction:[SKAction colorizeWithColor:[SKColor orangeColor] colorBlendFactor:1 duration:0]];
+//        left.alpha =  right.alpha = jump_button.alpha = 0.6;
+//        buttonPressedAlpha = 1;
+//        buttonUnpressedAlpha = 0.6;
+//    } else {
+//        [left runAction:[SKAction colorizeWithColor:[SKColor whiteColor] colorBlendFactor:1 duration:0]];
+//        [right runAction:[SKAction colorizeWithColor:[SKColor whiteColor] colorBlendFactor:1 duration:0]];
+//        [jump_button runAction:[SKAction colorizeWithColor:[SKColor whiteColor] colorBlendFactor:1 duration:0]];
+//        left.alpha =  right.alpha = jump_button.alpha = 0.1;
+//
+//        buttonPressedAlpha = 0.25;
+//        buttonUnpressedAlpha = 0.1;
+//    }
     
     [Key reset_keys_count_collected_by_hero];
     
@@ -658,8 +658,8 @@ static NSTimer* keep_alive_timer;
     
     self.anchorPoint = CGPointMake(0.5, 0.5);
     
-    buttonPressedAlpha = 0.25;
-    buttonUnpressedAlpha = 0.1;
+    buttonPressedAlpha = 1.0;
+    buttonUnpressedAlpha = 0.8;
     
     game_over_label = [SKLabelNode labelNodeWithFontNamed:@"ChalkboardSE-Bold"];
     game_over_label.fontSize = 50;
@@ -679,9 +679,14 @@ static NSTimer* keep_alive_timer;
 //    background_img.color = [SKColor blackColor]; //TODO: apply different color to forest, according the time of the play machine.
     [self addChild:background_img];
 
+    
+    if (control_layer != nil) {
+        [control_layer removeFromParent];
+    }
     control_layer = [SKNode node];
     control_layer.zPosition = 2000;
     [self addChild:control_layer];
+    
     [self addControlPad];
     
     self.physicsWorld.gravity = CGVectorMake(0, -5);
@@ -799,7 +804,8 @@ static NSTimer* keep_alive_timer;
                 [dead_heros_dict removeAllObjects];
                 //[self restart_level:@"level10000"];
                 [musicPlayer pause];
-                SKTransition *reveal = [SKTransition doorsOpenVerticalWithDuration:1.0];
+                [self runAction:play_back_to_select_level_sound_action];
+                SKTransition *reveal = [SKTransition doorsCloseVerticalWithDuration:0.5];
                 [self.view presentScene:[SelectLevelScene sharedInstance] transition:reveal];
         }
     }
@@ -993,7 +999,10 @@ static NSString* nextLevel;
 -(void)didSimulatePhysics {
     if ( ! self.scene.view.paused) {
         CGPoint positionInScene = [self convertPoint:_hero.position fromNode:world];
-        world.position = CGPointMake(world.position.x - positionInScene.x, world.position.y - positionInScene.y);
+        
+        if (fabs(world.position.y - positionInScene.y) > 0.3) {
+            world.position = CGPointMake(world.position.x - positionInScene.x, world.position.y - positionInScene.y);
+        }
     }
 }
 

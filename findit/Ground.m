@@ -123,8 +123,8 @@ static NSMutableArray* glass_contact_sounds;
     BOOL hasSpecialTexture = self.isGlass || self.isSand || self.isStepDownable || self.isSticky || self.isStaticSpikes || self.isBombable || self.isDynamicBlock ;
     
     if ( ! hasSpecialTexture){
-        [self apply_random_special_texture_to_moveable_block:default_ground_texture];
-        [self runAction:[SKAction colorizeWithColor:[SKColor randomColor] colorBlendFactor:0.1 duration:0]];
+        //[self apply_random_special_texture_to_moveable_block:default_ground_texture];
+        //[self runAction:[SKAction colorizeWithColor:[SKColor randomColor] colorBlendFactor:0.1 duration:0]];
     }
     
     if (self.isSpikeAround) {

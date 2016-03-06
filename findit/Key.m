@@ -40,7 +40,7 @@ static SKAction* grab_key_sound;
     magic_effect.zPosition = k.zPosition-1;
     [k addChild:magic_effect];
     
-    [k runAction:[SKAction colorizeWithColor:[SKColor randomColor] colorBlendFactor:0.8 duration:0]];
+    //[k runAction:[SKAction colorizeWithColor:[SKColor randomColor] colorBlendFactor:0.8 duration:0]];
     return k;
 }
 
