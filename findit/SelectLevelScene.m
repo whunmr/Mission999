@@ -42,7 +42,7 @@ static bool initialized = false;
         const int labelsInALine = w / (levelWidth + levelWidth/2);
 
         //TODO: calc 61 from level count
-        for (int i = 0; i < 60; ++i) {
+        for (int i = 0; i < 61; ++i) {
             SKSpriteNode* level = [[SKSpriteNode alloc] initWithColor:[SKColor colorWithHexString:@"#CCFF00" alpha:1.0]
                                          size:CGSizeMake(levelWidth, levelWidth)];
             

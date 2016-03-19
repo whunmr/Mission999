@@ -11,7 +11,7 @@
 
 #import <SpriteKit/SpriteKit.h>
 
-#define DEBUG_VERSION
+//#define DEBUG_VERSION
 
 typedef enum e_btn {
     e_left, e_right, e_jump, e_fire, e_reload, e_undown

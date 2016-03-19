@@ -187,6 +187,7 @@
 		029AC93C1BF73DD4007B9564 /* level49.svg in Resources */ = {isa = PBXBuildFile; fileRef = 029AC9321BF73DD4007B9564 /* level49.svg */; };
 		029AC93D1BF73DD4007B9564 /* level50.svg in Resources */ = {isa = PBXBuildFile; fileRef = 029AC9331BF73DD4007B9564 /* level50.svg */; };
 		02A8811D1B06EC04004030DE /* box_drop_on_ground.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 02A8811C1B06EC04004030DE /* box_drop_on_ground.mp3 */; };
+		02A97CCF1C91C206002F2D12 /* level61.svg in Resources */ = {isa = PBXBuildFile; fileRef = 02A97CCE1C91C206002F2D12 /* level61.svg */; };
 		02ACFA481B0B7BDE006491F6 /* level12.svg in Resources */ = {isa = PBXBuildFile; fileRef = 02ACFA471B0B7BDE006491F6 /* level12.svg */; };
 		02AD129D1B0CE89800F00A37 /* after_hurt.sks in Resources */ = {isa = PBXBuildFile; fileRef = 02AD129B1B0CE89800F00A37 /* after_hurt.sks */; };
 		02AD129F1B0CE8B200F00A37 /* after_heal.sks in Resources */ = {isa = PBXBuildFile; fileRef = 02AD129E1B0CE8B200F00A37 /* after_heal.sks */; };
@@ -455,6 +456,7 @@
 		029AC9321BF73DD4007B9564 /* level49.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = level49.svg; sourceTree = "<group>"; };
 		029AC9331BF73DD4007B9564 /* level50.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = level50.svg; sourceTree = "<group>"; };
 		02A8811C1B06EC04004030DE /* box_drop_on_ground.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = box_drop_on_ground.mp3; sourceTree = "<group>"; };
+		02A97CCE1C91C206002F2D12 /* level61.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level61.svg; sourceTree = "<group>"; };
 		02ACFA471B0B7BDE006491F6 /* level12.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = level12.svg; sourceTree = "<group>"; };
 		02AD129B1B0CE89800F00A37 /* after_hurt.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = after_hurt.sks; sourceTree = "<group>"; };
 		02AD129E1B0CE8B200F00A37 /* after_heal.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = after_heal.sks; sourceTree = "<group>"; };
@@ -748,6 +750,7 @@
 				0255989E1C098B3C00112F36 /* level58.svg */,
 				025598A31C09D17C00112F36 /* level59.svg */,
 				025598A41C09D17C00112F36 /* level60.svg */,
+				02A97CCE1C91C206002F2D12 /* level61.svg */,
 				0226A2981BEE065500B2E533 /* level101.svg */,
 				0226A2991BEE065500B2E533 /* level102.svg */,
 				0226A29A1BEE065500B2E533 /* level103.svg */,
@@ -1100,6 +1103,7 @@
 				025598A21C098B3C00112F36 /* level58.svg in Resources */,
 				0217D3AC1BF6478B00024070 /* level35.svg in Resources */,
 				02929EF31B567DE0006609AF /* level11.svg in Resources */,
+				02A97CCF1C91C206002F2D12 /* level61.svg in Resources */,
 				022A853E1B22875D00F5D8D0 /* wallxxx.jpg in Resources */,
 				0287143A1A7CA0DC003660CB /* touch_ground3.mp3 in Resources */,
 				024139161B38D01300E621A5 /* g3.mp3 in Resources */,
@@ -1237,7 +1241,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: hongmin wang (29WWT3US8Y)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: hongmin wang (29WWT3US8Y)";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -1263,6 +1268,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "5652a8cf-2843-43a7-848a-ebf67248d1dd";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -1284,7 +1290,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: hongmin wang (29WWT3US8Y)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: hongmin wang (29WWT3US8Y)";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -1302,6 +1309,7 @@
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				PROVISIONING_PROFILE = "5652a8cf-2843-43a7-848a-ebf67248d1dd";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -1311,8 +1319,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: hongmin wang (29WWT3US8Y)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: hongmin wang (29WWT3US8Y)";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
@@ -1324,7 +1332,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = com.whunmr.findit;
 				PRODUCT_NAME = "Mission 999";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "5652a8cf-2843-43a7-848a-ebf67248d1dd";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -1333,8 +1341,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: hongmin wang (29WWT3US8Y)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: hongmin wang (29WWT3US8Y)";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
@@ -1346,7 +1354,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = com.whunmr.findit;
 				PRODUCT_NAME = "Mission 999";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "5652a8cf-2843-43a7-848a-ebf67248d1dd";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;

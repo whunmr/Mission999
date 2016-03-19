@@ -397,9 +397,9 @@ static const CGFloat control_scale = 0.5;
             [world addChild:c];
             [updatableList addObject:c];
         } else if ([[text content] hasPrefix:@"d"] || [[text content] hasPrefix:@"D"]) {
-            Decoration* d = [Decoration decoration: [text content]];
-            d.position = pos;
-            [world addChild:d];
+            //Decoration* d = [Decoration decoration: [text content]];
+            //d.position = pos;
+            //[world addChild:d];
             
         } else if ([[text content] hasPrefix:@"p:"]) {
             SKNode* node = [world nodeAtPoint:pos];
@@ -997,6 +997,9 @@ static NSString* nextLevel;
 }
 
 -(void)didSimulatePhysics {
+}
+
+-(void)didFinishUpdate {
     if ( ! self.scene.view.paused) {
         CGPoint positionInScene = [self convertPoint:_hero.position fromNode:world];
         
